@@ -3,7 +3,7 @@ package cote.level_1;
 import java.util.Arrays;
 
 //로또의 최고 순위와 최저 순위
-public class Q1007 {
+public class Q007 {
 	public static void main(String[] args) {
 		int[] win = {38, 19, 20, 40, 15, 25};
 		int[] lottos = {0, 0, 0, 0, 0, 0};
